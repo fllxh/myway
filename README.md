@@ -1,0 +1,2 @@
+# supermarket
+本程序是依靠elispe的Windowsbuilder组件实现的超市前端
